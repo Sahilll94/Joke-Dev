@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Random Joke Teller",
+    "version": "1.0",
+    "description": "Get a random joke every time you click!",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icons/coding.png"
+    },
+    "permissions": ["storage"]
+  }
+  
